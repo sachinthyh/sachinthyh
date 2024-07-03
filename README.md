@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Power Systems Optimization and Interdependence**
 
-- ⚡ Fun fact **I think I have sense of humor**
+- ⚡ Fun fact: **I think I have sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
