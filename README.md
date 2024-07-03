@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Power Systems Optimization and Interdependence**
 
-- 📫 How to reach me **sachinthy@gmail.com**
-
 - ⚡ Fun fact **I think I have sense of humor**
 
 <h3 align="left">Connect with me:</h3>
