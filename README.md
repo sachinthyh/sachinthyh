@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Sachinth. Welcome to My World of Codes!</h1>
+<h1 align="center">Hello 👋, I'm Sachinth. Welcome to My World of Codes!</h1>
 <h3 align="center">A PhD Student in Electric Power Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinthyh&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthyh" /> </p>
