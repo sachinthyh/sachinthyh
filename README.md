@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Power Systems Planning & Operations**
 
-- 🌱 I’m currently learning **Socio-technical Power Systems Analysis**
+- 🌱 I’m currently learning **Cascading Failure Dynamics in Electric Power Systems**
 
 - 🤝 I’m looking for help with **Power Systems Optimization and Interdependence**
 
