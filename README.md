@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/sachinth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachinth" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Languages:</h3>
 <p align="left"> 
   <a href="https://www.pscad.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.pscad.com/img/pscad-logo.svg?1727980463" alt="pscad" width="120" height="40"/> 
