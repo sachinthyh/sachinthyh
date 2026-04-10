@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.pscad.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pscad.com/img/pscad-logo.svg?1727980463" alt="pscad" width="100" height="60"/> 
+    <img src="https://www.pscad.com/img/pscad-logo.svg?1727980463" alt="pscad" width="120" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
